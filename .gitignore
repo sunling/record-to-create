@@ -1,0 +1,13 @@
+# Personal daily records are ignored by default because this starter is public.
+daily/inputs/**/*.md
+!daily/inputs/README.md
+daily/journal/**/*.md
+!daily/journal/README.md
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/settings.json
