@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture Daily Journal"
+  short_description: "Turn rough notes into a faithful dated journal entry"
+  default_prompt: "Use $capture-daily-journal to add these rough notes to today’s journal."
