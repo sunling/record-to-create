@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Daily Entries"
+  short_description: "Find recurring themes and grounded next directions"
+  default_prompt: "Use $review-daily-entries to review my last seven days and suggest what to continue."
