@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture Daily Inputs"
+  short_description: "Save ideas and observations without overworking them"
+  default_prompt: "Use $capture-daily-inputs to save this thought as a faithful daily input."
